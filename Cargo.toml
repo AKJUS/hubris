@@ -122,7 +122,7 @@ sha3 = { version = "0.10", default-features = false }
 smbus-pec = { version = "1.0.1", default-features = false }
 smoltcp = { version = "0.9", default-features = false, features = ["proto-ipv6", "medium-ethernet", "socket-udp", "async"] }
 ssh-key = { version = "0.6.6", default-features = false, features = ["std", "p256"] }
-spin = { version = "0.9.4", default-features = false, features = ["mutex", "spin_mutex"]}
+spin = { version = "0.9.8", default-features = false, features = ["mutex", "spin_mutex"]}
 ssmarshal = { version = "1.0.0", default-features = false }
 static_assertions = { version = "1", default-features = false }
 stm32f3 = { version = "0.13.0", default-features = false }
